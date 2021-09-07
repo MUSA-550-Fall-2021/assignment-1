@@ -58,7 +58,7 @@ the command line: see instructions [here](https://musa-550-fall-2021.github.io/g
 Use a Jupyter notebook to find the Philadelphia ZIP code with the largest
 average annual ZHVI value, for each year in the data set. The Zillow data is
 available for download in this repository:
-[data/Zip_Zhvi_AllHomes.csv](data/Zip_Zhvi_AllHomes.csv).
+[data/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv](data/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv).
 
 The Jupyter notebook should use _pandas_ to load the data and analyze it. The following steps should be followed:
 
@@ -78,7 +78,7 @@ notebook.**
 ### Setting up GitHub for assignment submission
 
 You should submit your assignment through Github. For each assignment, I will
-provide a GitHub link that can be used to create a new repostiory. Each student
+provide a GitHub link that can be used to create a new repository. Each student
 will have their own private repository on GitHub where the assignment can be
 submitted. Only the student and instructors will have access to the private
 repository.
