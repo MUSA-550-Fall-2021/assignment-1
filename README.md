@@ -13,7 +13,7 @@ it.
 **Be aware that if you complete the assignment on Binder, you cannot save and
 return to your Binder session.**
 
-### Due Date: 7pm on 9/15
+### Due Date: 7pm on 9/20
 
 This week's assignment will be broken into two parts:
 
@@ -99,4 +99,4 @@ Below are some references if you need help:
 
 **Important**: Files should be committed to the newly created private repository (after following the above link) and _not_ to your forked version of the [assignment-1](https://github.com/MUSA-550-Fall-2021/assignment-1) repository.
 
-**Your Jupyter notebook should be submitted to your private repository by the deadline, 7pm on 9/15.**
+**Your Jupyter notebook should be submitted to your private repository by the deadline, 7pm on 9/20.**
